@@ -8,6 +8,7 @@
 2. [Young the Giant - **Young The Giant** (2011)](#Young-The-Giant)
 3. [Mayhem - **De Mysteriis Dom Sathanas** (1994)](#De-Mysteriis-Dom-Sathanas)
 4. [David Bowie - **Scary Monsters (and Super Creeps) (1980)**](#Scary-Monsters-and-Super-Creeps)
+5. [The Strokes - **Is This It** (2001)](#Is-This-It)
 
 ### In the Aeroplane Over the Sea
 
@@ -67,3 +68,27 @@ Pertama kali mendengarkan album ini saya hanya suka beberapa track saja karena m
 - Kingdom Come
 - Because You're Young
 - It's No Game (No. 2)
+
+### Is This It
+
+```
+Ditulis oleh: A.C. Pramaditya
+```
+
+Lagu pertama dari Strokes yang saya kenal adalah lagu `Under Cover of Darkness` pada album mereka **Angles** yang dirilis pada tahun 2011, saya menemukan lagu ini dari suatu kompilasi lagu di YouTube dan pada saat pertama saya mendengar ritma gitarnya, saya benar-benar suka dan saya menambahkannya ke *playlist* saya pada 4 Maret 2018. Akan tetapi saya tidak menggali lebih dalam lagi diskografi dari band ini (yang pada saat ini merupakan band modern favorit saya.), dan kemudian dari rentang April 2018 sampai dengan Mei 2018 dan juga 1 titik kecil pada waktu di tahun 2019 awal , saya menambahkan sekitar lebih dari 5 lagu ke *playlist*-*playlist* saya. Akan tetapi barulah pada akhir tahun 2019 dan awal bulan 2020 saya kembali bersua dengan lagu-lagu The Strokes, kenapa?
+
+Dikarenakan soundtrack [Looking for Alaska](https://www.billboard.com/articles/news/television/8532590/looking-for-alaska-soundtrack-track-list) yang saya dengarkan setelah saya selesai menonton shownya, benar-benar menyentuh hati saya... apalagi lagu akhirnya; suatu hal yang indah dan kiranya meremukan emosi dalam jantung saya yang dengan membingungkannya berdetak kepada suatu *ending* yang saya tahu betul. Kembali ke The Strokes, lagu mereka yang berjudul **Ask Me Anything** mendengung di telinga saya selama beberapa hari dan setelah beberapa bulan, saya memutuskan untuk mendengarkan diskografi mereka dan saya, benar-benar senang dengannya. Bukan saja bahwa lagu-lagu komposisi band The Strokes (yang meruapakan masterpiece hasilan anggota-anggota bandnya yang semuanya memiliki sentuhan artistik yang berbeda-beda dan saling mengkomplemen satu sama lain), tetapi saya juga disambut oleh album baru... yang benar-benar suatu gebyar di dunia musik (yang pada akhirnya [memenangkan nominasi Best Rock Album dari Grammy](https://www.grammy.com/grammys/news/strokes-win-best-rock-album-new-abnormal-2021-grammy-awards-show)). Bukan saja bahwa saya menikmati kembali musik-musik lawas mereka dari tahun 200an disaat hampir tidak ada teman saya yang mendengarkannya, tetapi karya terbaru mereka dinilai tinggi oleh para ahli; tak semua masterpiece perlu tetap dinikmati di bawah tanah.
+
+Kumpulan lagu yang memberi rasa kepada saya pada album ini adalah:
+
+- Is This It
+- The Modern Age
+- Soma
+- Barely Legal
+- Someday
+- Last Nite
+- Hard To Explain
+- New York City Cops
+- Take It Or Leave It
+
+Hampir semuanya saya sukai.
