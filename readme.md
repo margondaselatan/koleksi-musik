@@ -5,10 +5,11 @@
 > Konvensi penamaan: nama band - nama album
 
 1. [Neutral Milk Hotel - **In the Aeroplane Over the Sea** (1998)](#In-the-Aeroplane-Over-the-Sea)
-2. [Young the Giant - **Young The Giant** (2011)](#Young-The-Giant)
-3. [Mayhem - **De Mysteriis Dom Sathanas** (1994)](#De-Mysteriis-Dom-Sathanas)
-4. [David Bowie - **Scary Monsters (and Super Creeps)** (1980)](#Scary-Monsters-and-Super-Creeps)
-5. [The Strokes - **Is This It** (2001)](#Is-This-It)
+1. [Young the Giant - **Young The Giant** (2011)](#Young-The-Giant)
+1. [Mayhem - **De Mysteriis Dom Sathanas** (1994)](#De-Mysteriis-Dom-Sathanas)
+1. [David Bowie - **Scary Monsters (and Super Creeps)** (1980)](#Scary-Monsters-and-Super-Creeps)
+1. [The Strokes - **Is This It** (2001)](#Is-This-It)
+1. [The Cascades - **Rhythm Of The Rain** (1963)](#Rhythm-Of-The-Rain)
 
 ### In the Aeroplane Over the Sea
 
@@ -92,3 +93,24 @@ Kumpulan lagu yang memberi rasa kepada saya pada album ini adalah:
 - Take It Or Leave It
 
 Hampir semuanya saya sukai.
+
+### Rhythm Of The Rain
+
+```
+Ditulis oleh: A.C. Pramaditya
+```
+
+Penikmatan atas album ini dimulai dari menyelipnya lagu `Shy Girl` pada radio Spotify saya ketika (kalau tidak salah) saya sedang asik-asiknya mendengarkan lagu-lagu gubahan Ricky Nelson, waktu itu sekitar Maret 2019. Pada saat-saat ini juga saya menemukan buku-buku lawas di loteng rumah saya, buku-bukunya ada yang dari 50an, 60an, 70an, 80an, 90an, 00an, dan 10an; buku-buku 20an kebanyakan saya beli dari warung-warung daring penjual buku, dan ini setelah peristiwa yang menjadi faktor besar dalam selera literatur dan juga audio saya.
+
+Ketika saya mencari lagu `The Last Leaf` di YouTube, beberapa cover dari orang Indonesia muncul di hasil pencarian. Dari sini, saya mendapatkan emosi **anemoia** (nostalgia for a time you've never known). Sound processing dari lagu-lagu sini terasa lawas dan saya benar-benar menyukainya, saya bisa membayangkan diri saya sebagai seorang Indonesia yang dikirim menimba ilmu di daerah California dan berpapasan dengan pemuda-pemuda band ini. Lagu-lagu yang menonjol ketika saya dengarkan merupakan:
+
+- Shy Girl
+- The Last Leaf
+- Dreamin'
+- Lucky Guy
+- My First Day Alone
+- There's a Reason
+- I Wanna Be Your Lover
+
+Catatan: semua lagu pada album semuanya enak di telinga saya, akan tetapi saya menuliskan apa yang telah saya filter kembali; yakni apa lagu-lagu yang memberikan rasa kepada saya dan bukan hanya terdengar bagus, mereka terdaftar di atas.
+
