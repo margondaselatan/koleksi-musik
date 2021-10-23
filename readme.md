@@ -7,7 +7,7 @@
 1. [Neutral Milk Hotel - **In the Aeroplane Over the Sea** (1998)](#In-the-Aeroplane-Over-the-Sea)
 2. [Young the Giant - **Young The Giant** (2011)](#Young-The-Giant)
 3. [Mayhem - **De Mysteriis Dom Sathanas** (1994)](#De-Mysteriis-Dom-Sathanas)
-4. [David Bowie - **Scary Monsters (and Super Creeps) (1980)**](#Scary-Monsters-and-Super-Creeps)
+4. [David Bowie - **Scary Monsters (and Super Creeps)** (1980)](#Scary-Monsters-and-Super-Creeps)
 5. [The Strokes - **Is This It** (2001)](#Is-This-It)
 
 ### In the Aeroplane Over the Sea
