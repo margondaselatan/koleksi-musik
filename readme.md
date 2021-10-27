@@ -10,6 +10,7 @@
 1. [David Bowie - **Scary Monsters (and Super Creeps)** (1980)](#Scary-Monsters-and-Super-Creeps)
 1. [The Strokes - **Is This It** (2001)](#Is-This-It)
 1. [The Cascades - **Rhythm Of The Rain** (1963)](#Rhythm-Of-The-Rain)
+2. [Tizzy Bac - **我想你会变成这样都是我害的**](#我想你会变成这样都是我害的)
 
 ### In the Aeroplane Over the Sea
 
@@ -114,3 +115,18 @@ Ketika saya mencari lagu `The Last Leaf` di YouTube, beberapa cover dari orang I
 
 Catatan: semua lagu pada album semuanya enak di telinga saya, akan tetapi saya menuliskan apa yang telah saya filter kembali; yakni apa lagu-lagu yang memberikan rasa kepada saya dan bukan hanya terdengar bagus, mereka terdaftar di atas.
 
+### 我想你会变成这样都是我害的
+
+```
+Ditulis oleh: M. I Ghozali
+```
+
+Saya tidak akan mengaku mengerti arti sebenernya yang diceritakan pada album ini, karena saya sendiri tidak bisa berbicara mandarin, namun saya telah mencoba mentranslate beberapa lirik track pada album ini. Saya sendiri menemukan album ini secara tidak sengaja setelah mendengarkan radio dari rekomendasi teman saya Faris HZ. Semuanya menurut saya terkesan sedikit naik turun dalam emosinya, satu track emosinya akan naik dan kemudian di track selanjutnya kita akan kembali jatuh. Ini merupakan hal yang cukup menarik bagi saya, meningatkan saya dengan album genesis `selling england by the pounds`. Namun secara keseluruhan dapat kita rasakan atmosfir yang lumayan melankolis, namun disaat yang sama masih berusaha sedikit untuk menarik keluar kita dari aura yang lumayan gelap tersebut. Album ini ditutup dengan track terbaik dan paling poluler berdasarkan jumlah listener dalam album ini, you'll see. Penutupan album ini ada pada low notes semangat dan harapan yang diberikan pada track 鞋貓夫人，Madame!!!, suatu penutupan yang cocok menurut saya untuk mengakhiri masterpiece ini.
+
+Suatu saat saya mungkin akan merevisit album ini kembali, saat batasan bahasa sudah tidak menjadi suatu msalah. Hampir semua track pada album ini saya suka, diantara semuanya, yang paling sering saya degnarkan adalah:
+
+- 我不小心	
+- 瘋狂的豬
+- Tissue Time
+- 鞋貓夫人，Madame!!!
+- You'll See	
