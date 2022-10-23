@@ -130,3 +130,17 @@ Suatu saat saya mungkin akan merevisit album ini kembali, saat batasan bahasa su
 - Tissue Time
 - 鞋貓夫人，Madame!!!
 - You'll See	
+
+### Melt Away: A Tribute To Brian Wilson
+
+```
+Ditulis oleh: A.C. Pramaditya
+```
+Beberapa bulan yang lalu saya sangat antusias mendengarkan aransemen-aransemen Brian Wilson, dari sini saya temukan karya-karya Darian Sahanaja (apa mungkin dibaca sebagai Sahanaya?). Saya menonton kembali rekaman-rekaman konser Brian Wilson bersama dengan band-nya Darian Sahanaja, sungguh nikmat didengar di telinga. Usut punya usut, waktu berlalu dan saya menyadari bahwa **She & Him** (Duo pemusik indie, M. Ward dan Zooey Deschanel) mengeluarkan single _Darlin'_ serta album tribut kepada Brian Wilson. 
+
+Berdasarkan ingatan saya pada petikan-petikan M. Ward pada lagu **In the Sun** album Volume Two dari band **She & Him**, tentu saya sangat tertarik untuk mendengarkan perkawinan antara kejagoan gitar M. Ward dengan karya-karya lawas dari Brian Wilson. Ketertarikan saya ternyata terpenuhi. Meski ada beberapa lagu yang tak menarik di telinga saya, tetapi lagu-lagu di bawah ini saya rasa akan nikmat jika didengarkan kalangan publik:
+
+- Darlin'
+- Don't Worry Baby
+- Wouldn't It Be Nice
+
