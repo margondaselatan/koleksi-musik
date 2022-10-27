@@ -5,13 +5,14 @@
 > Konvensi penamaan: nama band - nama album
 
 1. [Neutral Milk Hotel - **In the Aeroplane Over the Sea** (1998)](#In-the-Aeroplane-Over-the-Sea)
-1. [Young the Giant - **Young The Giant** (2011)](#Young-The-Giant)
-1. [Mayhem - **De Mysteriis Dom Sathanas** (1994)](#De-Mysteriis-Dom-Sathanas)
-1. [David Bowie - **Scary Monsters (and Super Creeps)** (1980)](#Scary-Monsters-and-Super-Creeps)
-1. [The Strokes - **Is This It** (2001)](#Is-This-It)
-1. [The Cascades - **Rhythm Of The Rain** (1963)](#Rhythm-Of-The-Rain)
-1. [Tizzy Bac - **我想你会变成这样都是我害的**](#我想你会变成这样都是我害的)
-1. [She & Him - **Melt Away: A Tribute To Brian Wilson**](#Melt-Away:-A-Tribute-To-Brian-Wilson)
+2. [Young the Giant - **Young The Giant** (2011)](#Young-The-Giant)
+3. [Mayhem - **De Mysteriis Dom Sathanas** (1994)](#De-Mysteriis-Dom-Sathanas)
+4. [David Bowie - **Scary Monsters (and Super Creeps)** (1980)](#Scary-Monsters-and-Super-Creeps)
+5. [The Strokes - **Is This It** (2001)](#Is-This-It)
+6. [The Cascades - **Rhythm Of The Rain** (1963)](#Rhythm-Of-The-Rain)
+7. [Tizzy Bac - **我想你会变成这样都是我害的**](#我想你会变成这样都是我害的)
+8. [She & Him - **Melt Away: A Tribute To Brian Wilson**](#Melt-Away:-A-Tribute-To-Brian-Wilson)
+9. [Kino - **Звезда по имени Солнце**](#Звезда-по-имени-Солнце)
 
 ### In the Aeroplane Over the Sea
 
@@ -145,3 +146,18 @@ Berdasarkan ingatan saya pada petikan-petikan M. Ward pada lagu **In the Sun** a
 - Don't Worry Baby
 - Wouldn't It Be Nice
 
+### Звезда по имени Солнце
+
+```
+Ditulis oleh: R.A. Nuriyan
+```
+Pada akhir tahun 2020, saya melihat sebuah video playlist dengan gambar karakter meme Doomer klasik yang berpakaian serba hitam dengan wajah lelah, dilengkapi dengan latar belakang berupa foto sederet apartemen bergaya brutalis peninggalan Soviet yang diambil ketika hari sudah sedikit gelap. Judul dari video tersebut adalah [Russian Doomer Music vol.3 (Superior)](https://www.youtube.com/watch?v=wcaZcbain2s&ab_channel=JustMyFavStrangeMusic). Kesan suram yang saya dapatkan ketika mendengarkan playlist tersebut adalah awal ketertarikan saya dengan genre post-punk Rusia dan Kino sebagai salah satu band yang sudah berkarya dalam genre tersebut sejak era Soviet di tahun 1980-an.
+
+Album dengan judul yang berarti "Suatu Bintang Yang Disebut Matahari" ini merupakan album yang dirilis oleh Kino pada tahun 1989. Album ini juga merupakan album terakhir yang dirilis Kino sebelum kematian Viktor Tsoi, vokalis mereka. Salah satu hal yang menarik dari album ini adalah penggunaan instrumen (terutama gitar) dengan volume keras untuk mengiringi lirik yang terdengar seperti pikiran yang terkadang muncul pada malam hari mengenai siklus hidup dan mati atau mengenai kerasnya perjuangan hidup yang sudah dilewati sampai titik ini, sehingga terkesan seperti sesuatu yang ingin menenggelamkan pikiran-pikiran tersebut. Hal lain yang menarik adalah lirik-lirik yang menggunakan peperangan sebagai analogi dari perjuangan hidup manusia, yang juga mencerminkan perang Soviet-Afghanistan yang berlangsung selama proses pembuatan album ini serta instabilitas politik secara umum yang terjadi pada penghujung berdirinya Uni Soviet.
+
+Saya merasa bahwa setiap lagu pada album ini enak untuk didengarkan, tetapi jika saya diminta untuk memilih lagu-lagu yang paling menarik, mungkin saya dapat memilih beberapa. Karena saya tidak begitu lancar berbahasa Rusia, saya tidak begitu mempertimbangkan lirik dalam memilih lagu-lagu yang paling menarik tersebut. Menurut saya, lagu-lagu yang paling menarik dari album ini adalah:
+
+- Апрель
+- Пачка сигарет
+- Стук
+- Невесёлая песня
